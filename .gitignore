@@ -1,0 +1,6 @@
+.DS_STORE
+*.jpeg
+*.gif
+/Examples
+/pore_dist
+/results
